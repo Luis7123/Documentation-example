@@ -47,3 +47,8 @@ Meta
 ----
 
 - Add new exercises ideas for future workshops (edit this file).
+
+
+# NUevo titulo
+
+clase 17 agosto

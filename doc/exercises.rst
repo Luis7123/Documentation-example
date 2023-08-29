@@ -52,3 +52,4 @@ Meta
 # NUevo titulo
 
 clase 17 agosto
+$$\frac{\lambda}{\psi ^2}+\sum_{n}^{i+1} $$

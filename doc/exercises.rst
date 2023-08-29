@@ -52,5 +52,5 @@ Meta
 # NUevo titulo
 
 clase 17 agosto
-{math}`\frac{\lambda}{\psi ^2}+\sum_{n}^{i+1}` 
-{math}`a^2+b^2=c^2`
+\begin{gather*}\frac{\lambda}{\psi ^2}\end{gather*}
+

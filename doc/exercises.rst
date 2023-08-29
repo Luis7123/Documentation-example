@@ -54,3 +54,4 @@ Meta
 clase 17 agosto
 \begin{gather*}\frac{\lambda}{\psi ^2}\end{gather*}
 \begin{equation} a^2 + b^2 = c^2 \end{equation}
+$ \frac{1}{\lambda}$
